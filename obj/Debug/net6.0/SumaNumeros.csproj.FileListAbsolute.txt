@@ -1,0 +1,14 @@
+C:\Users\csi22-irodhan\Desktop\Programacion\SumaNumeros\bin\Debug\net6.0\SumaNumeros.exe
+C:\Users\csi22-irodhan\Desktop\Programacion\SumaNumeros\bin\Debug\net6.0\SumaNumeros.deps.json
+C:\Users\csi22-irodhan\Desktop\Programacion\SumaNumeros\bin\Debug\net6.0\SumaNumeros.runtimeconfig.json
+C:\Users\csi22-irodhan\Desktop\Programacion\SumaNumeros\bin\Debug\net6.0\SumaNumeros.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\SumaNumeros\bin\Debug\net6.0\SumaNumeros.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\SumaNumeros\obj\Debug\net6.0\SumaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-irodhan\Desktop\Programacion\SumaNumeros\obj\Debug\net6.0\SumaNumeros.AssemblyInfoInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\SumaNumeros\obj\Debug\net6.0\SumaNumeros.AssemblyInfo.cs
+C:\Users\csi22-irodhan\Desktop\Programacion\SumaNumeros\obj\Debug\net6.0\SumaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\SumaNumeros\obj\Debug\net6.0\SumaNumeros.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\SumaNumeros\obj\Debug\net6.0\refint\SumaNumeros.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\SumaNumeros\obj\Debug\net6.0\SumaNumeros.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\SumaNumeros\obj\Debug\net6.0\SumaNumeros.genruntimeconfig.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\SumaNumeros\obj\Debug\net6.0\ref\SumaNumeros.dll
